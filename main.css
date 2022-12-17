@@ -7,5 +7,5 @@ html, body {
 .navbar {
     width: 80%;
     margin: auto;
-    box-shadow: purple;
+    box-shadow: rgb(126, 105, 126);
 }
