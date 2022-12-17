@@ -1,0 +1,10 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+.navbar_container {
+    display: flex;
+    justify-content: center;
+}
